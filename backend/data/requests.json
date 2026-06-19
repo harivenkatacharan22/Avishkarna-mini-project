@@ -1,0 +1,17 @@
+[
+  {
+    "id": "req_1781864722892",
+    "resourceId": "res_tractor",
+    "resourceName": "Mahindra Tractor 275 DI",
+    "borrowerId": "usr_1781864559925",
+    "borrowerName": "Oguri Hari venkata charan",
+    "borrowerContact": "8885244687",
+    "ownerId": "usr_ramesh",
+    "startDate": "2026-06-19",
+    "endDate": "2026-06-27",
+    "message": "",
+    "status": "pending",
+    "type": "borrow",
+    "createdAt": "2026-06-19T10:25:22.892Z"
+  }
+]

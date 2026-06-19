@@ -1,0 +1,26 @@
+[
+  {
+    "id": "usr_ramesh",
+    "name": "Ramesh Kumar",
+    "username": "ramesh",
+    "password": "$2a$10$5Jblninq6VttfswzElHqXOUlYywi4I2doRbEfHRyZMjXRiLY49BjC",
+    "phone": "9876543210",
+    "village": "Rampur"
+  },
+  {
+    "id": "usr_suresh",
+    "name": "Suresh Patel",
+    "username": "suresh",
+    "password": "$2a$10$5Jblninq6VttfswzElHqXOUlYywi4I2doRbEfHRyZMjXRiLY49BjC",
+    "phone": "9876543211",
+    "village": "Rampur"
+  },
+  {
+    "id": "usr_1781864559925",
+    "name": "Oguri Hari venkata charan",
+    "username": "harivenkatacharanm",
+    "password": "$2a$10$C39oTuBls6eesHwNaLSCfOfoyh7CkOs7IoYMVrKBZPqlnevLYi1Mq",
+    "phone": "8885244687",
+    "village": "vinukonda"
+  }
+]

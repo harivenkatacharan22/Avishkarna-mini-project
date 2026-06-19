@@ -1,0 +1,50 @@
+[
+  {
+    "id": "res_tractor",
+    "name": "Mahindra Tractor 275 DI",
+    "category": "Farming Tools",
+    "description": "Powerful 39 HP tractor, ideal for plowing, sowing, and heavy haulage. Comes with cultivator attachments. Fuel to be arranged by borrower.",
+    "availabilityStatus": "available",
+    "ownerId": "usr_ramesh",
+    "ownerName": "Ramesh Kumar",
+    "contactNumber": "9876543210",
+    "villageName": "Rampur",
+    "imageUrl": "https://images.unsplash.com/photo-1594498653385-d527250c69fe?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "res_drill",
+    "name": "Bosch Professional Hammer Drill GSB 500 RE",
+    "category": "Drill Machine",
+    "description": "500W compact hammer drill machine. Suitable for drilling wood, metal, and concrete. Includes a complete set of drill bits.",
+    "availabilityStatus": "available",
+    "ownerId": "usr_suresh",
+    "ownerName": "Suresh Patel",
+    "contactNumber": "9876543211",
+    "villageName": "Rampur",
+    "imageUrl": "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "res_water_motor",
+    "name": "Kirloskar 1HP Centrifugal Water Pump",
+    "category": "Water Motor",
+    "description": "High pressure water motor, suitable for field irrigation, garden watering, and filling overhead household water tanks.",
+    "availabilityStatus": "available",
+    "ownerId": "usr_ramesh",
+    "ownerName": "Ramesh Kumar",
+    "contactNumber": "9876543210",
+    "villageName": "Rampur",
+    "imageUrl": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "res_ladder",
+    "name": "12-Step Aluminum Foldable A-Type Ladder",
+    "category": "Ladder",
+    "description": "Heavy-duty aluminum ladder, height adjustable, up to 12 feet. Perfect for electrical work, painting, or harvesting fruits from tall trees.",
+    "availabilityStatus": "available",
+    "ownerId": "usr_suresh",
+    "ownerName": "Suresh Patel",
+    "contactNumber": "9876543211",
+    "villageName": "Rampur",
+    "imageUrl": "https://images.unsplash.com/photo-1589307737252-090c14c5c2d3?auto=format&fit=crop&q=80&w=800"
+  }
+]
