@@ -22,5 +22,13 @@
     "password": "$2a$10$C39oTuBls6eesHwNaLSCfOfoyh7CkOs7IoYMVrKBZPqlnevLYi1Mq",
     "phone": "8885244687",
     "village": "vinukonda"
+  },
+  {
+    "id": "usr_1781879899868",
+    "name": "saicharan",
+    "username": "sai123",
+    "password": "$2a$10$x4q5SUw/DYEtwlEI1MOFB.o7ZSt9Cr3uE7WIYh3QxVIZf6hiN9La.",
+    "phone": "6642548912",
+    "village": "chimakurthi"
   }
 ]
