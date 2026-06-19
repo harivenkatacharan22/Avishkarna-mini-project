@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -40,7 +40,7 @@ const App = () => {
                   <p style={{ color: 'var(--text-muted)', margin: '1rem 0 2rem' }}>
                     The page you are looking for does not exist.
                   </p>
-                  <a href="/" className="btn btn-primary">Go to Home</a>
+                  <a href="#/" className="btn btn-primary">Go to Home</a>
                 </div>
               } />
             </Routes>
